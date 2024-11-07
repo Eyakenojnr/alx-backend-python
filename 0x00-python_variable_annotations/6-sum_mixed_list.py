@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 6's module.
+'''Complex types - mixed list.
 '''
 from typing import List, Union
 
