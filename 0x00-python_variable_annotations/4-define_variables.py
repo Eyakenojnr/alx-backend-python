@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 4's module.
+'''Define and annotate variables with the specified values.
 '''
 
 
